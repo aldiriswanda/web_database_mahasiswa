@@ -1,0 +1,4 @@
+Note : saya menggunakan Port 7882 untuk Apache
+http://localhost:7882/web_database_mahasiswa/
+
+apabila ada kesalahan saat membuka alamat, ubah dulu coding alamat dalam file nya dan sesuaikan dengan lokasi file yang anda gunakan.
